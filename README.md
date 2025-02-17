@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lê Minh Quang!  
+# 👋 Hi there, I'm Le Minh Quang!  
 
 🚀 **Software Internship Backend NodeJS @ AEGONA**  
 
