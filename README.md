@@ -5,7 +5,7 @@
 📫 **Email:** lmqiuhdev@gmail.com  
 🔗 **LinkedIn:** [View Profile](https://www.linkedin.com/analytics/profile-views/)  
 
-![Professional GIF](https://media.giphy.com/media/3o7btPCcdN9dKk6V3u/giphy.gif)  
+![Professional GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl1cWFuOGRteGQzMXdscmpsdmJzOTA1bHp2bGVwajJzaG82czk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif)  
 
 
 ## 🔧 Tech Stack  
