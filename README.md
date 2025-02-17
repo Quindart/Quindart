@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Le Minh Quang!  
 
-🚀 **Software Internship Backend NodeJS @ AEGONA**  
+🚀 **Software Engineer**  
 
 📫 **Email:** lmqiuhdev@gmail.com  
 🔗 **LinkedIn:** [View Profile](https://www.linkedin.com/analytics/profile-views/)  
