@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Le Minh Quang</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🌱 I’m currently learning **ReactJS, ReactNative, Gin**
+- 🌱 I’m currently learning **ReactJS, ReactNative, Gin, NodeJS**
 
 - 💬 Ask me about **javascript, golang**
 
